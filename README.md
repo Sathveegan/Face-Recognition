@@ -1,4 +1,4 @@
-# FACE RECOGNITION WEB SERVICE
+# FACE RECOGNITION
 
 ```
 Develop the REST API for Face Recognition using Spring Boot & Amazon Rekognition.
